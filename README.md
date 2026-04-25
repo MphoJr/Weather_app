@@ -10,8 +10,8 @@ The Weather App provides users with current weather information and forecasts ba
 - Easy-to-use interface with responsive design.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express
+- **Frontend:** tinker
+- **Backend:** python
 - **APIs:** OpenWeatherMap API for weather data.
 
 ## Setup and Installation
@@ -25,15 +25,15 @@ The Weather App provides users with current weather information and forecasts ba
    ```
 3. Install the dependencies:
    ```bash
-   npm install
+pip install
    ```
 4. Start the application:
    ```bash
-   npm start
+   python Weather_app.py
    ```
 
 ## Usage
-After starting the application, open your browser and navigate to `http://localhost:3000` to view the Weather App. You can enter your location to get weather updates.
+After starting the application, open your browser and navigate  to view the Weather App. You can enter your location to get weather updates.
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any improvements.
