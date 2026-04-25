@@ -25,8 +25,9 @@ The Weather App provides users with current weather information and forecasts ba
    ```
 3. Install the dependencies:
    ```bash
-pip install
+   pip install
    ```
+   
 4. Start the application:
    ```bash
    python Weather_app.py
